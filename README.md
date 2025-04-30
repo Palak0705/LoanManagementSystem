@@ -1,0 +1,1 @@
+This Project is the Loan Management System for different banks using MONGODB for backend and HTML, CSS and JavaScript for frontend and express.js for middleware. This system performs CRUD operations i.e. Create, Update, Read and Delete loan application. Search for a particular bank with a particular status like, Pending, Approved and Rejected.
